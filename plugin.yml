@@ -1,0 +1,4 @@
+name: Trojan
+main: me.FieldZ.Trojan.TrojanCore
+version: 0.1
+author: FieldZ

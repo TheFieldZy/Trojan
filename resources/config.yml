@@ -1,0 +1,49 @@
+# TrojanCore: Make adjustments for your server here
+
+# This is the amount of exp needed to reach the next level, keep in mind that exp is set back to 0 after each level, so it isn't a "build" on method, so to say
+Levels:
+    Level-1: 200
+    Level-2: 500
+    Level-3: 750
+    Level-4: 1100
+    Level-5: 1500
+    Level-6: 1850
+    Level-7: 2050
+    Level-8: 2500
+    Level-9: 2900
+    Level-10: 3350
+    Level-11: 3500
+    Level-12: 3750
+    Level-13: 4050
+    Level-14: 4500
+    Level-15: 4950
+    Level-16: 5400
+    Level-17: 6000
+    Level-18: 7000
+    Level-19: 9000
+    Level-20: 10000
+# Here is where you set the amounts of EXP for certain tasks
+Exp:
+    CREATER_ZOMBIE: 50
+    CREATURE_SKELETON: 50
+    CREATURE_SPIDER: 50
+    CREATURE_BLAZE: 75
+    CREATURE_WOLF: 50
+    CREATURE_SILVERFISH: 25
+    CREATURE_ENDERDRAGON: 500
+    CREATURE_GIANT: 150
+    CREATURE_ENDERMAN: 75    
+    CREATURE_GHAST: 200
+    CREATURE_CAVESPIDER: 75
+    CREATURE_PIGZONBIE: 75
+    CREATURE_PLAYER: 100
+    MINE_STONE: 5
+    MINE_COBBLESTONE: 5
+    MINE_COAL_ORE: 10
+    MINE_IRON_ORE: 15
+    MINE_DIAMOND_ORE: 50
+    MINE_LAPIS_ORE: 25
+    MINE_REDSTONE_ORE: 15
+    
+    
+    
